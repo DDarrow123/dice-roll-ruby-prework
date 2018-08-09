@@ -6,7 +6,7 @@
     #rand(1..6)# code goes here
 #end
 
-def roll
+def roll(array, n)
   array = [1 , 2 , 3, 4, 5, 6]
     puts array.sample
 end
