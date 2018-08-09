@@ -7,6 +7,6 @@
 #end
 
 def roll
-  array = [1 , 2 , 3, 4, 5, 6]
-    puts array.sample
+  ary = [1 , 2 , 3, 4, 5, 6]
+    puts ary.sample
 end
