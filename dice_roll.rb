@@ -8,5 +8,5 @@
 
 def roll
   [1 , 2 , 3, 4, 5, 6].sample
-    puts sample
+    puts 
 end
